@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/Child" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7050a4c6-65c5-44d2-b060-d4339b8886eb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/3rdfile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demp.py" beforeDir="false" afterPath="$PROJECT_DIR$/demp.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Prabhu.R" />
+      </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectId" id="1cJY3diosmfuyY8JWjDn4Ii3QtW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.2nd file">
+    <configuration name="2nd file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TestingGit1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2nd file.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TestingGit1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.2nd file" />
+        <item itemvalue="Python.demp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7050a4c6-65c5-44d2-b060-d4339b8886eb" name="Default Changelist" comment="" />
+      <created>1590247965242</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590247965242</updated>
+    </task>
+    <task id="LOCAL-00001" summary="1st commit added 1 line">
+      <created>1590248226204</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590248226204</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2nd commit added 1 line">
+      <created>1590249418536</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590249418536</updated>
+    </task>
+    <task id="LOCAL-00003" summary="3nd commit Deleted 2 line">
+      <created>1590249948987</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1590249948987</updated>
+    </task>
+    <task id="LOCAL-00004" summary="3nd commit Deleted 2 line">
+      <created>1590250182429</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1590250182429</updated>
+    </task>
+    <task id="LOCAL-00005" summary="typo corrected">
+      <created>1590250751037</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1590250751037</updated>
+    </task>
+    <task id="LOCAL-00006" summary="typo corrected2">
+      <created>1590250811273</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1590250811273</updated>
+    </task>
+    <task id="LOCAL-00007" summary="typo corrected2">
+      <created>1590250883879</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1590250883879</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/Child" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_NEW_TODO" value="false" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="1st commit added 1 line" />
+    <MESSAGE value="2nd commit added 1 line" />
+    <MESSAGE value="3nd commit Deleted 2 line" />
+    <MESSAGE value="typo corrected" />
+    <MESSAGE value="typo corrected2" />
+    <option name="LAST_COMMIT_MESSAGE" value="typo corrected2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="427" y="133" key="#TODO" timestamp="1590248137310">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="427" y="133" key="#TODO/0.0.1280.680@0.0.1280.680" timestamp="1590248137310" />
+    <state x="49" y="0" width="1183" height="680" key="CommitChangelistDialog2" timestamp="1590250881173">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="49" y="0" width="1183" height="680" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1590250881173" />
+    <state x="121" y="50" width="1024" height="572" key="DiffContextDialog" timestamp="1590250713289">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="50" width="1024" height="572" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1590250713289" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1590250119285">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1590250119285" />
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom" timestamp="1590250189415">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1590250189415" />
+    <state width="1259" height="163" key="GridCell.Tab.0.center" timestamp="1590250189415">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1590250189415" />
+    <state width="1259" height="163" key="GridCell.Tab.0.left" timestamp="1590250189414">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1590250189414" />
+    <state width="1259" height="163" key="GridCell.Tab.0.right" timestamp="1590250189415">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1590250189415" />
+    <state x="430" y="43" key="RollbackChangesDialog" timestamp="1590249667892">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="430" y="43" key="RollbackChangesDialog/0.0.1280.680@0.0.1280.680" timestamp="1590249667892" />
+    <state x="529" y="256" key="VCS.EditChangelistDialog" timestamp="1590250000583">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="529" y="256" key="VCS.EditChangelistDialog/0.0.1280.680@0.0.1280.680" timestamp="1590250000583" />
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1590250475632">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1590250475632" />
+    <state x="93" y="93" width="1095" height="495" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1590249606114">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1280.680@0.0.1280.680" timestamp="1590249606114" />
+    <state x="450" y="254" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590249909191">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="450" y="254" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1590249909191" />
+    <state x="415" y="129" key="git4idea.merge.GitMergeDialog" timestamp="1590250419620">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="415" y="129" key="git4idea.merge.GitMergeDialog/0.0.1280.680@0.0.1280.680" timestamp="1590250419620" />
+    <state x="358" y="129" key="git4idea.merge.GitPullDialog" timestamp="1590250596936">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="358" y="129" key="git4idea.merge.GitPullDialog/0.0.1280.680@0.0.1280.680" timestamp="1590250596936" />
+  </component>
+</project>
