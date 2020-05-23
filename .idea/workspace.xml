@@ -28,7 +28,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7050a4c6-65c5-44d2-b060-d4339b8886eb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4thfile" beforeDir="false" afterPath="$PROJECT_DIR$/4thfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +54,6 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="SET_USER_NAME_GLOBALLY" value="false" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1cJY3diosmfuyY8JWjDn4Ii3QtW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -202,7 +200,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590251031644</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="automation testcases added">
+      <created>1590251554657</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1590251554657</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -237,17 +242,18 @@
     <MESSAGE value="typo corrected" />
     <MESSAGE value="typo corrected2" />
     <MESSAGE value="newfile created" />
-    <option name="LAST_COMMIT_MESSAGE" value="newfile created" />
+    <MESSAGE value="automation testcases added" />
+    <option name="LAST_COMMIT_MESSAGE" value="automation testcases added" />
   </component>
   <component name="WindowStateProjectService">
     <state x="427" y="133" key="#TODO" timestamp="1590248137310">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="427" y="133" key="#TODO/0.0.1280.680@0.0.1280.680" timestamp="1590248137310" />
-    <state x="49" y="0" width="1183" height="680" key="CommitChangelistDialog2" timestamp="1590251028731">
+    <state x="49" y="0" width="1183" height="680" key="CommitChangelistDialog2" timestamp="1590251551837">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="49" y="0" width="1183" height="680" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1590251028731" />
+    <state x="49" y="0" width="1183" height="680" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1590251551837" />
     <state x="121" y="50" width="1024" height="572" key="DiffContextDialog" timestamp="1590250713289">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -280,18 +286,18 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="529" y="256" key="VCS.EditChangelistDialog/0.0.1280.680@0.0.1280.680" timestamp="1590250000583" />
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1590251116082">
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1590252144612">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1590251116082" />
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1590252144612" />
     <state x="93" y="93" width="1095" height="495" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1590249606114">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="93" y="93" width="1095" height="495" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1280.680@0.0.1280.680" timestamp="1590249606114" />
-    <state x="450" y="254" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590249909191">
+    <state x="450" y="254" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590251595949">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="450" y="254" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1590249909191" />
+    <state x="450" y="254" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1590251595949" />
     <state x="415" y="129" key="git4idea.merge.GitMergeDialog" timestamp="1590251316461">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
